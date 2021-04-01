@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Taco Bell
+- Del Taco
+- Pizza Hut
+- In n out :)
